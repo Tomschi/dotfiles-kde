@@ -4,6 +4,6 @@
 \.gitignore
 \.gitmodules
 
-\.scripts
+\scripts
 
 \.stowrc
